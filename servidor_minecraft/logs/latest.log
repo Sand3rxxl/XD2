@@ -1,0 +1,415 @@
+2025-02-22 00:05:28,881 [32mINFO [m [m[main][m [mc.m.m.Launcher.main(76)[m: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+2025-02-22 00:05:28,888 [32mINFO [m [m[main][m [mc.m.m.Launcher.<init>(51)[m: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+2025-02-22 00:05:29,931 [32mINFO [m [m[main][m [mmixin.info(97)[m: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/XD2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2382!/ Service=ModLauncher Env=SERVER
+2025-02-22 00:05:30,393 [32mINFO [m [m[main][m [mn.m.f.l.m.JarInJarDependencyLocator.scanMods(58)[m: Found 4 dependencies adding them to mods collection
+2025-02-22 00:05:32,549 [32mINFO [m [m[main][m [mmixin.info(97)[m: Compatibility level set to JAVA_17
+2025-02-22 00:05:32,650 [1;31mERROR[m [m[main][m [mmixin.error(77)[m: Mixin config bendylib.mixins.json does not specify "minVersion" property
+2025-02-22 00:05:32,775 [32mINFO [m [m[main][m [mmixin.info(97)[m: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+2025-02-22 00:05:32,777 [32mINFO [m [m[main][m [mmixin.info(97)[m: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+2025-02-22 00:05:32,780 [32mINFO [m [m[main][m [mc.m.m.LaunchServiceHandler.launch(52)[m: Launching target 'forgeserver' with arguments [nogui]
+2025-02-22 00:05:40,763 [32mINFO [m [m[main][m [mn.m.u.d.DataFixers.m_14529_(272)[m: Building unoptimized datafixer
+2025-02-22 00:05:45,349 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id architectury:sync_ids
+2025-02-22 00:05:45,421 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id otyacraftengine:block_entity_instruction
+2025-02-22 00:05:45,421 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id iammusicplayer:music_sync
+2025-02-22 00:05:45,423 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id otyacraftengine:item_instruction
+2025-02-22 00:05:45,424 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id iammusicplayer:music_playlist_add
+2025-02-22 00:05:45,425 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id iammusicplayer:music_playlist_edit
+2025-02-22 00:05:45,428 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
+2025-02-22 00:05:45,431 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id iammusicplayer:music_add
+2025-02-22 00:05:45,434 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id iammusicplayer:music_edit
+2025-02-22 00:05:45,436 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
+2025-02-22 00:05:45,437 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id iammusicplayer:music_ring_update_result
+2025-02-22 00:05:45,439 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
+2025-02-22 00:05:45,443 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id iammusicplayer:multiple_music_add
+2025-02-22 00:05:45,445 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
+2025-02-22 00:05:45,614 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.ForgeMod.<init>(428)[m: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+2025-02-22 00:05:45,615 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.MinecraftForge.initialize(49)[m: MinecraftForge v43.4.2 Initialized
+2025-02-22 00:05:45,756 [32mINFO [m [m[modloading-worker-0][m [mb.f.e.ExpandAbility.init(12)[m: ExpandAbility here, who dis?
+2025-02-22 00:05:45,992 [32mINFO [m [m[modloading-worker-0][m [mc.m.MohistMC.init(39)[m: EventDispatcherRegistry initialized
+2025-02-22 00:06:01,470 [32mINFO [m [m[modloading-worker-0][m [mCPM.setup(55)[m: Customizable Player Models Initialized
+2025-02-22 00:06:01,514 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region minecraft:overworld to index 0 for type OVERWORLD
+2025-02-22 00:06:01,514 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region minecraft:nether to index 0 for type NETHER
+2025-02-22 00:06:01,515 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+2025-02-22 00:06:01,515 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+2025-02-22 00:06:01,516 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+2025-02-22 00:06:01,516 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+2025-02-22 00:06:01,517 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+2025-02-22 00:06:01,542 [32mINFO [m [m[main][m [mModdingLegacy/StructureGel.log(39)[m: [structure_gel] Registering data for structure_gel:loot_table_alias
+2025-02-22 00:06:01,550 [32mINFO [m [m[main][m [mModdingLegacy/StructureGel.log(39)[m: [structure_gel] Registering data for structure_gel:data_handler_type
+2025-02-22 00:06:01,551 [32mINFO [m [m[main][m [mModdingLegacy/StructureGel.log(39)[m: [structure_gel] Registering data for structure_gel:dynamic_spawner
+2025-02-22 00:06:01,552 [32mINFO [m [m[main][m [mModdingLegacy/StructureGel.log(39)[m: [structure_gel] Registering data for structure_gel:jigsaw_type
+2025-02-22 00:06:01,573 [32mINFO [m [m[modloading-worker-0][m [mCPM.apiInit(37)[m: Customizable Player Models API initialized: Loaded plugins: (0)
+
+2025-02-22 00:06:01,595 [32mINFO [m [m[modloading-worker-0][m [mJade.loadComplete(125)[m: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+2025-02-22 00:06:01,610 [32mINFO [m [m[modloading-worker-0][m [mJade.loadComplete(125)[m: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+2025-02-22 00:06:01,617 [32mINFO [m [m[modloading-worker-0][m [mJade.loadComplete(125)[m: Start loading plugin at snownee.jade.addon.core.CorePlugin
+2025-02-22 00:06:01,618 [32mINFO [m [m[modloading-worker-0][m [mJade.loadComplete(125)[m: Start loading plugin at net.blay09.mods.waystones.compat.ForgeJadeWaystonesPlugin
+2025-02-22 00:06:01,619 [32mINFO [m [m[modloading-worker-0][m [mJade.loadComplete(125)[m: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
+2025-02-22 00:06:01,619 [32mINFO [m [m[modloading-worker-0][m [mJade.loadComplete(125)[m: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
+2025-02-22 00:06:01,621 [32mINFO [m [m[modloading-worker-0][m [mJade.loadComplete(125)[m: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+2025-02-22 00:06:04,494 [32mINFO [m [m[main][m [mc.m.a.y.YggdrasilAuthenticationService.<init>(74)[m: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+2025-02-22 00:06:06,252 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/XD2/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23213!/assets/.mcassetsroot' uses unexpected schema
+2025-02-22 00:06:06,253 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/XD2/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23213!/data/.mcassetsroot' uses unexpected schema
+2025-02-22 00:06:08,226 [32mINFO [m [m[main][m [mc.g.a.a.AlexsMobs.onAddReloadListener(785)[m: Adding datapack listener capsid_recipes
+2025-02-22 00:06:08,971 [32mINFO [m [m[main][m [mn.m.w.i.c.RecipeManager.m_5787_(97)[m: Loaded 9 recipes
+2025-02-22 00:06:09,670 [33mWARN [m [m[main][m [mn.m.w.l.s.l.LootTables.m_79210_(56)[m: Found validation problem in {sons_of_sins:entities/prowler}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+2025-02-22 00:06:09,671 [33mWARN [m [m[main][m [mn.m.w.l.s.l.LootTables.m_79210_(56)[m: Found validation problem in {sons_of_sins:entities/butcher}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+2025-02-22 00:06:09,671 [33mWARN [m [m[main][m [mn.m.w.l.s.l.LootTables.m_79210_(56)[m: Found validation problem in {sons_of_sins:entities/walking_bed}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+2025-02-22 00:06:09,671 [33mWARN [m [m[main][m [mn.m.w.l.s.l.LootTables.m_79210_(56)[m: Found validation problem in {sons_of_sins:entities/blud}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+2025-02-22 00:06:09,829 [32mINFO [m [m[main][m [mn.m.a.AdvancementList.m_139333_(94)[m: Loaded 2731 advancements
+2025-02-22 00:06:11,346 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(128)[m: Starting minecraft server version 1.19.2
+2025-02-22 00:06:11,348 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(133)[m: Loading properties
+2025-02-22 00:06:11,348 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(149)[m: Default game type: SURVIVAL
+2025-02-22 00:06:11,348 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129793_(1298)[m: Generating keypair
+2025-02-22 00:06:11,443 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(160)[m: Starting Minecraft server on *:25565
+2025-02-22 00:06:11,469 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerConnectionListener.m_9711_(83)[m: Using default channel type
+2025-02-22 00:06:11,557 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(172)[m: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2025-02-22 00:06:11,557 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(173)[m: The server will make no attempt to authenticate usernames. Beware.
+2025-02-22 00:06:11,558 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(174)[m: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2025-02-22 00:06:11,558 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(175)[m: To change this, set "online-mode" to "true" in the server.properties file.
+2025-02-22 00:06:11,670 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: This server is running Mohist version 1.19.2-139 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT, Forge version 43.4.2)
+2025-02-22 00:06:13,434 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Using 4 threads for Netty based IO
+2025-02-22 00:06:13,436 [32mINFO [m [m[Server thread][m [m.playerSample(271)[m: Server Ping Player Sample Count: 12
+2025-02-22 00:06:13,436 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Debug logging is enabled
+2025-02-22 00:06:13,490 [1;31mERROR[m [m[Server thread][m [mMinecraft.publish(32)[m: Could not load 'plugins/EssentialsX Compatibility.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:169) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:144) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.loadPlugins(CraftServer.java:391) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:7e29f765-296df566-9fb885e8]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:191) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:839) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 7 more
+2025-02-22 00:06:14,455 [32mINFO [m [m[Server thread][m [mm.m.c.Clearlag.publish(36)[m: [ClearLag] Loading ClearLag v3.2.2
+2025-02-22 00:06:14,455 [32mINFO [m [m[Server thread][m [md.m.v.Voicechat.publish(36)[m: [voicechat] Loading voicechat v2.5.27
+2025-02-22 00:06:14,456 [32mINFO [m [m[Server thread][m [mp.a.PlayerTimeLimit.publish(36)[m: [PlayerTimeLimit] Loading PlayerTimeLimit v1.6.1
+2025-02-22 00:06:14,456 [32mINFO [m [m[Server thread][m [mn.s.b.SRBukkitBootstrap.publish(36)[m: [SkinsRestorer] Loading SkinsRestorer v15.5.2
+2025-02-22 00:06:14,457 [32mINFO [m [m[Server thread][m [mx.s.SimpleTimer.publish(36)[m: [SimpleTimer] Loading SimpleTimer v1.5.2
+2025-02-22 00:06:14,457 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit] Loading WorldEdit v7.2.15+6463-5ca4dff
+2025-02-22 00:06:16,148 [32mINFO [m [m[Server thread][m [mc.s.w.e.p.PlatformManager.register(100)[m: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@74442307]
+2025-02-22 00:06:16,240 [32mINFO [m [m[Server thread][m [mo.k.c.ChunkLoader.publish(36)[m: [ChunkLoader] Loading ChunkLoader v3.2.1
+2025-02-22 00:06:16,241 [32mINFO [m [m[Server thread][m [mc.l.b.l.LoginSecurity.publish(36)[m: [LoginSecurity] Loading LoginSecurity v3.3.0
+2025-02-22 00:06:16,241 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldGuardPlugin.publish(36)[m: [WorldGuard] Loading WorldGuard v7.0.8+33cdb4a
+2025-02-22 00:06:16,241 [32mINFO [m [m[Server thread][m [mn.c.CoreProtect.publish(36)[m: [CoreProtect] Loading CoreProtect v22.4
+2025-02-22 00:06:16,245 [32mINFO [m [m[Server thread][m [mn.s.b.SRBukkitBootstrap.publish(36)[m: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
+2025-02-22 00:06:17,775 [33mWARN [m [m[Server thread][m [mMinecraft.publish(34)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+2025-02-22 00:06:19,048 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.19.2[32;1m.[0;39m[m
+2025-02-22 00:06:20,082 [33mWARN [m [m[Server thread][m [mMinecraft.publish(34)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your Java runtime to at least Java 21 (your version is 17).[0;39m
+2025-02-22 00:06:20,082 [33mWARN [m [m[Server thread][m [mMinecraft.publish(34)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mAt some point in the future, SkinsRestorer will no longer be compatible with this version of Java.[0;39m
+2025-02-22 00:06:20,093 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit] Enabling WorldEdit v7.2.15+6463-5ca4dff
+2025-02-22 00:06:20,140 [32mINFO [m [m[Server thread][m [mc.s.w.e.p.PlatformCommandManager.registerCommandsWith(427)[m: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+2025-02-22 00:06:20,386 [32mINFO [m [m[Server thread][m [mc.s.w.PermissionsResolverManager.findResolver(126)[m: WEPIF: Using the Bukkit Permissions API.
+2025-02-22 00:06:33,774 [33mWARN [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.loadAdapter(303)[m: 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and block property-related functions.
+**
+** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
+**********************************************
+
+2025-02-22 00:06:34,216 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit] ====================================================
+2025-02-22 00:06:34,216 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  WorldEdit works better if you use Paper 
+2025-02-22 00:06:34,217 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  as your server software. 
+2025-02-22 00:06:34,217 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]   
+2025-02-22 00:06:34,217 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  Paper offers significant performance improvements,
+2025-02-22 00:06:34,217 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  bug fixes, security enhancements and optional
+2025-02-22 00:06:34,218 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  features for server owners to enhance their server.
+2025-02-22 00:06:34,218 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]   
+2025-02-22 00:06:34,218 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  Paper includes Timings v2, which is significantly
+2025-02-22 00:06:34,218 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  better at diagnosing lag problems over v1.
+2025-02-22 00:06:34,219 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]   
+2025-02-22 00:06:34,219 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  All of your plugins should still work, and the
+2025-02-22 00:06:34,219 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  Paper community will gladly help you fix any issues.
+2025-02-22 00:06:34,220 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]   
+2025-02-22 00:06:34,220 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit]  Join the Paper Community @ https://papermc.io
+2025-02-22 00:06:34,220 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldEditPlugin.publish(36)[m: [WorldEdit] ====================================================
+2025-02-22 00:06:34,671 [32mINFO [m [m[Server thread][m [mterrablender.initializeBiomes(107)[m: Initialized TerraBlender biomes for level stem minecraft:overworld
+2025-02-22 00:06:34,672 [32mINFO [m [m[Server thread][m [mterrablender.initializeBiomes(107)[m: Initialized TerraBlender biomes for level stem minecraft:the_nether
+2025-02-22 00:06:34,672 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(198)[m: Preparing level "world"
+2025-02-22 00:06:35,461 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(561)[m: Preparing start region for dimension minecraft:overworld
+2025-02-22 00:06:44,553 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:44,555 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:44,556 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:44,557 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:44,559 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:44,561 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:44,562 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:44,563 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:44,564 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:44,564 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:44,565 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:44,567 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:44,571 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:44,573 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:44,575 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:44,576 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:44,579 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:44,580 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:44,582 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:44,969 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 1%
+2025-02-22 00:06:45,463 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 31%
+2025-02-22 00:06:45,973 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 52%
+2025-02-22 00:06:46,630 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 100%
+2025-02-22 00:06:47,391 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 100%
+2025-02-22 00:06:47,483 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 100%
+2025-02-22 00:06:48,026 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 100%
+2025-02-22 00:06:48,586 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 100%
+2025-02-22 00:06:52,520 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 100%
+2025-02-22 00:06:52,535 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 100%
+2025-02-22 00:06:52,538 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 100%
+2025-02-22 00:06:52,539 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 100%
+2025-02-22 00:06:52,539 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 100%
+2025-02-22 00:06:52,543 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 100%
+2025-02-22 00:06:52,565 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 100%
+2025-02-22 00:06:52,570 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 100%
+2025-02-22 00:06:52,968 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 100%
+2025-02-22 00:06:53,856 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 100%
+2025-02-22 00:06:53,964 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 100%
+2025-02-22 00:06:54,464 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 100%
+2025-02-22 00:06:54,969 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 100%
+2025-02-22 00:06:55,464 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 100%
+2025-02-22 00:06:55,966 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 100%
+2025-02-22 00:06:55,982 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 20519 ms
+2025-02-22 00:06:56,113 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(561)[m: Preparing start region for dimension minecraft:the_end
+2025-02-22 00:06:57,999 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:58,001 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:58,002 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:58,003 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:58,152 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-02-22 00:06:58,614 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 47%
+2025-02-22 00:06:59,031 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 2917 ms
+2025-02-22 00:06:59,038 [32mINFO [m [m[Server thread][m [mm.m.c.Clearlag.publish(36)[m: [ClearLag] Enabling ClearLag v3.2.2
+2025-02-22 00:06:59,055 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [ClearLag] Using version-adapter: LatestVersionAdapter
+2025-02-22 00:06:59,202 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [ClearLag] Loading modules...
+2025-02-22 00:06:59,208 [33mWARN [m [m[Server thread][m [mMinecraft.publish(34)[m: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (net.minecraft.server.v1_19_R1.MinecraftServer)
+2025-02-22 00:06:59,209 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [ClearLag] Modules enabed, loading config values
+2025-02-22 00:06:59,217 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [ClearLag] Modules have been loaded!
+2025-02-22 00:06:59,223 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [ClearLag] Clearlag is now enabled!
+2025-02-22 00:06:59,224 [32mINFO [m [m[Server thread][m [md.m.v.Voicechat.publish(36)[m: [voicechat] Enabling voicechat v2.5.27
+2025-02-22 00:06:59,224 [32mINFO [m [m[Thread-10][m [mMinecraft.publish(36)[m: [ClearLag] Checking for updates compatible with your bukkit version [1.19]...
+2025-02-22 00:06:59,251 [32mINFO [m [m[Server thread][m [md.m.v.Voicechat.publish(36)[m: [voicechat] Initializing compatibility for Bukkit version 1.19.2-R0.1
+2025-02-22 00:06:59,251 [32mINFO [m [m[Server thread][m [md.m.v.Voicechat.publish(36)[m: [voicechat] Compatibility version 18
+2025-02-22 00:06:59,384 [33mWARN [m [m[Server thread][m [md.m.v.Voicechat.publish(34)[m: [voicechat] Commodore command completion is not supported
+2025-02-22 00:06:59,385 [32mINFO [m [m[Server thread][m [mp.a.PlayerTimeLimit.publish(36)[m: [PlayerTimeLimit] Enabling PlayerTimeLimit v1.6.1
+2025-02-22 00:06:59,421 [32mINFO [m [m[Thread-10][m [mMinecraft.publish(36)[m: [ClearLag] No updates found!
+2025-02-22 00:06:59,422 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;30;1m[[0;36;1mPlayerTime[0;31;1mLimit[0;30;1m] [0;33;1mHas been enabled! [0;37;1mVersion: 1.6.1[m
+2025-02-22 00:06:59,422 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;30;1m[[0;36;1mPlayerTime[0;31;1mLimit[0;30;1m] [0;33;1mThanks for using my plugin!  [0;37;1m~Ajneb97[m
+2025-02-22 00:06:59,659 [32mINFO [m [m[Server thread][m [mx.s.SimpleTimer.publish(36)[m: [SimpleTimer] Enabling SimpleTimer v1.5.2
+2025-02-22 00:06:59,674 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;32;22m[SimpleTimer] [0;32;1mSuccessfully Enabled ([0;37;1mv1.5.2[0;32;1m)[m
+2025-02-22 00:06:59,674 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;32;22m[SimpleTimer] [0;37;1mXhasi [0;30;1m» [0;37;22mThanks for using my plugin[m
+2025-02-22 00:06:59,699 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;32;22m[SimpleTimer] [0;33;22mThere is a new version available. ([0;37;1mv1.6.0[0;33;22m)[m
+2025-02-22 00:06:59,700 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;32;22m[SimpleTimer] [0;32;22mYou can download it at: [0;37;22mhttps://www.spigotmc.org/resources/109565/[m
+2025-02-22 00:06:59,700 [32mINFO [m [m[Server thread][m [mo.k.c.ChunkLoader.publish(36)[m: [ChunkLoader] Enabling ChunkLoader v3.2.1
+2025-02-22 00:06:59,818 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;37;1mEnabled Spigot version.[m
+2025-02-22 00:06:59,852 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;37;22mmessages_en [0;32;1mfile was loaded successfully.[m
+2025-02-22 00:06:59,869 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;37;1m[m
+2025-02-22 00:06:59,869 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;37;1m [0;37;22mChunkLoader [0;33;22muse [0;37;22mInventoryAPI developed by KayTeam[m
+2025-02-22 00:06:59,870 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;37;1m[m
+2025-02-22 00:06:59,870 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;37;1m [0;33;22mWebsite: [0;37;22mhttps://kayteam.org[m
+2025-02-22 00:06:59,870 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;37;1m [0;33;22mGithub: [0;37;22mhttps://github.com/KayTeam-Studio/inventory-api[m
+2025-02-22 00:06:59,871 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;37;1m[m
+2025-02-22 00:06:59,872 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;37;22m[m
+2025-02-22 00:06:59,872 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;36;22m* ChunkLoader [0;32;1mEnabled[m
+2025-02-22 00:06:59,873 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;36;22m*[m
+2025-02-22 00:06:59,873 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;36;22m* [0;36;1mVersion: [0;37;1m3.2.1[m
+2025-02-22 00:06:59,873 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;36;22m* [0;36;1mAuthor: [0;37;1mKayTeam[m
+2025-02-22 00:06:59,873 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;36;22m* [0;36;1mWebsite: [0;37;1mhttps://kayteam.org[m
+2025-02-22 00:06:59,874 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;36;22m*[m
+2025-02-22 00:06:59,874 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;36;22m* [0;36;1mI like the bread![m
+2025-02-22 00:06:59,874 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;37;22m[m
+2025-02-22 00:06:59,875 [32mINFO [m [m[Server thread][m [mc.l.b.l.LoginSecurity.publish(36)[m: [LoginSecurity] Enabling LoginSecurity v3.3.0
+2025-02-22 00:06:59,923 [32mINFO [m [m[Server thread][m [mc.l.b.l.LoginSecurity.publish(36)[m: [LoginSecurity] Loading base translations from "en_us"
+2025-02-22 00:06:59,925 [32mINFO [m [m[Server thread][m [mc.l.b.l.LoginSecurity.publish(36)[m: [LoginSecurity] Loading specified translations from "en_us"
+2025-02-22 00:07:00,040 [32mINFO [m [m[Server thread][m [mc.l.b.l.LoginSecurity.publish(36)[m: [LoginSecurity] Registering commands...
+2025-02-22 00:07:00,057 [32mINFO [m [m[Server thread][m [mc.l.b.l.LoginSecurity.publish(36)[m: [LoginSecurity] Registering listeners...
+2025-02-22 00:07:00,135 [32mINFO [m [m[Server thread][m [mc.l.b.l.LoginSecurity.publish(36)[m: [LoginSecurity] Using 1.12+ map captcha renderer
+2025-02-22 00:07:00,137 [32mINFO [m [m[Server thread][m [mc.s.w.b.WorldGuardPlugin.publish(36)[m: [WorldGuard] Enabling WorldGuard v7.0.8+33cdb4a
+2025-02-22 00:07:00,422 [1;31mERROR[m [m[Server thread][m [mc.s.w.WorldEdit.<clinit>(282)[m: No TreeType mapping for TreeGenerator.TreeType.CHERRY
+2025-02-22 00:07:00,450 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (world) TNT ignition is PERMITTED.
+2025-02-22 00:07:00,450 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (world) Lighters are PERMITTED.
+2025-02-22 00:07:00,451 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (world) Lava fire is PERMITTED.
+2025-02-22 00:07:00,451 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+2025-02-22 00:07:00,454 [32mINFO [m [m[Server thread][m [mc.s.w.c.WorldConfiguration.publish(36)[m: [WorldGuard] Loaded configuration for world 'world'
+2025-02-22 00:07:00,466 [32mINFO [m [m[Server thread][m [mc.s.w.WorldGuard.publish(36)[m: [WorldGuard] Loading region data...
+2025-02-22 00:07:00,790 [32mINFO [m [m[Server thread][m [mn.c.CoreProtect.publish(36)[m: [CoreProtect] Enabling CoreProtect v22.4
+2025-02-22 00:07:01,119 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;37;1m[0;37;1m[m[CoreProtect] CoreProtect has been successfully enabled![0;37;1m[0;37;1m [m
+2025-02-22 00:07:01,119 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [CoreProtect] Using SQLite for data storage.
+2025-02-22 00:07:01,120 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: --------------------
+2025-02-22 00:07:01,120 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+2025-02-22 00:07:01,120 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [CoreProtect] Discord: www.coreprotect.net/discord/
+2025-02-22 00:07:01,120 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: --------------------
+2025-02-22 00:07:01,141 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Server permissions file permissions.yml is empty, ignoring it
+2025-02-22 00:07:01,198 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(202)[m: Done (26.977s)! For help, type "help"
+2025-02-22 00:07:01,234 [32mINFO [m [m[Server thread][m [mn.m.s.p.PermissionAPI.initializePermissionAPI(130)[m: Successfully initialized permission handler forge:default_handler
+2025-02-22 00:07:01,242 [32mINFO [m [m[Server thread][m [mpatchouli.dataReloaded(11)[m: Sending reload packet to clients
+2025-02-22 00:07:01,276 [32mINFO [m [m[Server thread][m [md.m.v.Voicechat.publish(36)[m: [voicechat] Loading plugins
+2025-02-22 00:07:01,276 [32mINFO [m [m[Server thread][m [md.m.v.Voicechat.publish(36)[m: [voicechat] Loaded 0 plugin(s)
+2025-02-22 00:07:01,276 [32mINFO [m [m[Server thread][m [md.m.v.Voicechat.publish(36)[m: [voicechat] Initializing plugins
+2025-02-22 00:07:01,277 [32mINFO [m [m[Server thread][m [md.m.v.Voicechat.publish(36)[m: [voicechat] Initialized 0 plugin(s)
+2025-02-22 00:07:01,279 [33mWARN [m [m[Server thread][m [md.m.v.Voicechat.publish(34)[m: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+2025-02-22 00:07:01,303 [32mINFO [m [m[VoiceChatServerThread][m [md.m.v.Voicechat.publish(36)[m: [voicechat] Voice host is '100.115.102.59'
+2025-02-22 00:07:01,313 [1;31mERROR[m [m[VoiceChatServerThread][m [md.m.v.Voicechat.publish(32)[m: [voicechat] Failed to bind to address '100.115.102.59', binding to wildcard IP instead
+2025-02-22 00:07:01,319 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: [CoreProtect] WorldEdit logging successfully initialized.
+2025-02-22 00:07:01,315 [32mINFO [m [m[VoiceChatServerThread][m [md.m.v.Voicechat.publish(36)[m: [voicechat] Voice chat server started at 100.115.102.59:24454
+2025-02-22 00:07:01,376 [32mINFO [m [m[Craft Scheduler Thread - 1][m [m.sendMessage(60)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+2025-02-22 00:07:01,377 [32mINFO [m [m[Craft Scheduler Thread - 1][m [m.sendMessage(60)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
+2025-02-22 00:07:01,377 [32mINFO [m [m[Craft Scheduler Thread - 1][m [m.sendMessage(60)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m[m
+2025-02-22 00:07:01,378 [32mINFO [m [m[Craft Scheduler Thread - 1][m [m.sendMessage(60)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m[m
+2025-02-22 00:07:01,379 [32mINFO [m [m[Craft Scheduler Thread - 1][m [m.sendMessage(60)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m[m
+2025-02-22 00:07:01,380 [32mINFO [m [m[Craft Scheduler Thread - 1][m [m.sendMessage(60)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
+2025-02-22 00:07:01,380 [32mINFO [m [m[Craft Scheduler Thread - 1][m [m.sendMessage(60)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+2025-02-22 00:07:01,381 [32mINFO [m [m[Craft Scheduler Thread - 1][m [m.sendMessage(60)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [31;1m15.5.2[0;39m[m
+2025-02-22 00:07:01,381 [32mINFO [m [m[Craft Scheduler Thread - 1][m [m.sendMessage(60)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [31;1mae257f6[0;39m[m
+2025-02-22 00:07:01,382 [32mINFO [m [m[Craft Scheduler Thread - 1][m [m.sendMessage(60)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    A new version ([32;1m15.5.3[36;1m) is available! Downloading update...[0;39m[m
+2025-02-22 00:07:01,382 [32mINFO [m [m[Craft Scheduler Thread - 1][m [m.sendMessage(60)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+2025-02-22 00:07:01,383 [32mINFO [m [m[Craft Scheduler Thread - 1][m [m.sendMessage(60)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m[m
+2025-02-22 00:07:01,383 [32mINFO [m [m[Craft Scheduler Thread - 1][m [m.sendMessage(60)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m[m
+2025-02-22 00:07:01,384 [32mINFO [m [m[Craft Scheduler Thread - 1][m [m.sendMessage(60)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] Downloading update...[0;39m[m
+2025-02-22 00:07:02,094 [32mINFO [m [m[Craft Scheduler Thread - 1][m [m.sendMessage(60)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] Downloaded update in 710ms[0;39m[m
+2025-02-22 00:07:02,095 [32mINFO [m [m[Craft Scheduler Thread - 1][m [m.sendMessage(60)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] Update saved as SkinsRestorer.jar[0;39m[m
+2025-02-22 00:07:02,096 [32mINFO [m [m[Craft Scheduler Thread - 1][m [m.sendMessage(60)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] The update will be loaded on the next server restart[0;39m[m
+2025-02-22 00:13:06,499 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
+2025-02-22 00:13:11,029 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@41cbdf9a
+2025-02-22 00:13:11,251 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: SoySander joined the game
+2025-02-22 00:13:11,285 [32mINFO [m [m[Server thread][m [mJade.playerJoin(149)[m: Syncing config to SoySander (2fdec197-58fd-3a92-a8c9-336e26aeae55)
+2025-02-22 00:13:11,315 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(323)[m: SoySander[/[0:0:0:0:0:0:0:1]:48578] logged in with entity id 575 at (-889.4244035863705, 67.0, -2108.699999988079)
+2025-02-22 00:13:16,795 [32mINFO [m [m[Server thread][m [md.m.v.Voicechat.publish(36)[m: [voicechat] Received secret request of SoySander (18)
+2025-02-22 00:13:16,796 [32mINFO [m [m[Server thread][m [md.m.v.Voicechat.publish(36)[m: [voicechat] Sent secret to SoySander
+2025-02-22 00:13:16,801 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 5749ms or 114 ticks behind
+2025-02-22 00:13:28,128 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
+2025-02-22 00:13:44,215 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1412)[m: SoySander lost connection: Timed out
+2025-02-22 00:13:44,215 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: SoySander left the game
+2025-02-22 00:13:54,216 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
+2025-02-22 00:13:57,467 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@78b8fd9
+2025-02-22 00:13:57,501 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: SoySander joined the game
+2025-02-22 00:13:57,510 [32mINFO [m [m[Server thread][m [mJade.playerJoin(149)[m: Syncing config to SoySander (2fdec197-58fd-3a92-a8c9-336e26aeae55)
+2025-02-22 00:13:57,512 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(323)[m: SoySander[/[0:0:0:0:0:0:0:1]:49204] logged in with entity id 828 at (-889.4244035863705, 67.0, -2108.699999988079)
+2025-02-22 00:14:01,556 [32mINFO [m [m[Server thread][m [md.m.v.Voicechat.publish(36)[m: [voicechat] Received secret request of SoySander (18)
+2025-02-22 00:14:01,557 [33mWARN [m [m[Server thread][m [md.m.v.Voicechat.publish(34)[m: [voicechat] Player already requested secret - ignoring
+2025-02-22 00:14:01,557 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 4004ms or 80 ticks behind
+2025-02-22 00:14:01,589 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerLoginPacketListenerImpl.m_7026_(185)[m: com.mojang.authlib.GameProfile@6b5edd3d[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/[0:0:0:0:0:0:0:1]:41702) lost connection: Timed out
+2025-02-22 00:14:33,342 [1;31mERROR[m [m[Server thread][m [mMinecraft.publish(32)[m: Could not pass event InventoryCloseEvent to ChunkLoader v3.2.1
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:303) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	at org.bukkit.craftbukkit.v1_19_R1.event.CraftEventFactory.handleInventoryCloseEvent(CraftEventFactory.java:1360) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7951_(ServerGamePacketListenerImpl.java:2006) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClosePacket.m_5797_(ServerboundContainerClosePacket.java:15) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClosePacket.m_5797_(ServerboundContainerClosePacket.java:6) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:974) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "org.bukkit.inventory.InventoryView.getPlayer()" because "this.transaction" is null
+	at org.bukkit.event.inventory.InventoryCloseEvent.getPlayer(InventoryCloseEvent.java:26) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	at org.kayteam.inventoryapi.listeners.InventoryCloseListener.onInventoryClose(InventoryCloseListener.java:25) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:301) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	... 21 more
+2025-02-22 00:14:45,059 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [SoySander: Set own game mode to Creative Mode]
+2025-02-22 00:15:04,830 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [SoySander: Set own game mode to Survival Mode]
+2025-02-22 00:15:13,032 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [SoySander: commands.curios.reset.success]
+2025-02-22 00:15:25,978 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [SoySander: Set own game mode to Creative Mode]
+2025-02-22 00:15:32,591 [1;31mERROR[m [m[Server thread][m [mc.s.w.u.e.EventBus.dispatch(195)[m: Could not dispatch event: com.sk89q.worldedit.event.platform.PlayerInputEvent@57f28fd to handler EventHandler{priority=NORMAL}
+java.lang.reflect.InvocationTargetException: null
+	at com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:75) ~[?:?]
+	at com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:193) ~[?:?]
+	at com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:181) ~[?:?]
+	at com.sk89q.worldedit.WorldEdit.handleArmSwing(WorldEdit.java:633) ~[?:?]
+	at com.sk89q.worldedit.bukkit.WorldEditListener.onPlayerInteract(WorldEditListener.java:128) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:301) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	at org.bukkit.craftbukkit.v1_19_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:490) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	at org.bukkit.craftbukkit.v1_19_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:457) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	at org.bukkit.craftbukkit.v1_19_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:453) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7953_(ServerGamePacketListenerImpl.java:1762) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.network.protocol.game.ServerboundSwingPacket.m_5797_(ServerboundSwingPacket.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.network.protocol.game.ServerboundSwingPacket.m_5797_(ServerboundSwingPacket.java:7) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:974) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:889) ~[guava-31.1-jre.jar%23102!/:?]
+	at com.sk89q.worldedit.blocks.BaseItem.<init>(BaseItem.java:48) ~[?:?]
+	at com.sk89q.worldedit.blocks.BaseItemStack.<init>(BaseItemStack.java:53) ~[?:?]
+	at com.sk89q.worldedit.bukkit.BukkitAdapter.adapt(BukkitAdapter.java:531) ~[?:?]
+	at com.sk89q.worldedit.bukkit.BukkitPlayer.getItemInHand(BukkitPlayer.java:82) ~[?:?]
+	at com.sk89q.worldedit.extension.platform.PlayerProxy.getItemInHand(PlayerProxy.java:69) ~[?:?]
+	at com.sk89q.worldedit.extension.platform.PlatformManager.handlePlayerInput(PlatformManager.java:424) ~[?:?]
+	at com.sk89q.worldedit.util.eventbus.MethodHandleEventHandler.dispatch(MethodHandleEventHandler.java:51) ~[?:?]
+	at com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73) ~[?:?]
+	... 32 more
+2025-02-22 00:15:32,597 [1;31mERROR[m [m[Server thread][m [mMinecraft.publish(32)[m: Could not pass event PlayerInteractEvent to WorldGuard v7.0.8+33cdb4a
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:303) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:588) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:575) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	at org.bukkit.craftbukkit.v1_19_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:490) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	at org.bukkit.craftbukkit.v1_19_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:457) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	at org.bukkit.craftbukkit.v1_19_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:453) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7953_(ServerGamePacketListenerImpl.java:1762) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.network.protocol.game.ServerboundSwingPacket.m_5797_(ServerboundSwingPacket.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.network.protocol.game.ServerboundSwingPacket.m_5797_(ServerboundSwingPacket.java:7) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:974) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23213!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "com.sk89q.worldedit.world.item.ItemType.getId()" because "this.type" is null
+	at com.sk89q.worldguard.blacklist.target.ItemTarget.getTypeId(ItemTarget.java:34) ~[?:?]
+	at com.sk89q.worldguard.bukkit.internal.TargetMatcherSet.test(TargetMatcherSet.java:48) ~[?:?]
+	at com.sk89q.worldguard.bukkit.internal.TargetMatcherSet.test(TargetMatcherSet.java:76) ~[?:?]
+	at com.sk89q.worldguard.bukkit.listener.EventAbstractionListener.onPlayerInteract(EventAbstractionListener.java:551) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:301) ~[forge-1.19.2-43.4.2-universal.jar%23218!/:?]
+	... 23 more
