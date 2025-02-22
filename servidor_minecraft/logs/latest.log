@@ -1121,3 +1121,35 @@ Caused by: java.lang.NullPointerException: Cannot invoke "com.sk89q.worldedit.wo
 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:301) ~[forge-1.19.2-43.4.2-universal.jar%23220!/:?]
 	... 23 more
 2025-02-22 21:55:01,424 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [SoySander: Set own game mode to Survival Mode]
+2025-02-22 21:56:39,862 [32mINFO [m [m[User Authenticator #3][m [mn.m.s.n.ServerLoginPacketListenerImpl.m_10053_(100)[m: Disconnecting com.mojang.authlib.GameProfile@165f124d[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/[0:0:0:0:0:0:0:1]:34024): [LoginSecurity] This player is already online!
+2025-02-22 21:56:39,884 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerLoginPacketListenerImpl.m_7026_(185)[m: com.mojang.authlib.GameProfile@165f124d[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/[0:0:0:0:0:0:0:1]:34024) lost connection: [LoginSecurity] This player is already online!
+2025-02-22 21:57:01,434 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1412)[m: SoySander lost connection: Timed out
+2025-02-22 21:57:01,434 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: SoySander left the game
+2025-02-22 21:57:08,152 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
+2025-02-22 21:57:28,667 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2441ms or 48 ticks behind
+2025-02-22 21:57:48,358 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2832ms or 56 ticks behind
+2025-02-22 21:58:07,711 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
+2025-02-22 21:58:26,788 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2462ms or 49 ticks behind
+2025-02-22 21:58:45,909 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2382ms or 47 ticks behind
+2025-02-22 21:59:05,014 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2438ms or 48 ticks behind
+2025-02-22 21:59:24,129 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2453ms or 49 ticks behind
+2025-02-22 21:59:43,282 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2406ms or 48 ticks behind
+2025-02-22 22:00:02,406 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2430ms or 48 ticks behind
+2025-02-22 22:00:21,598 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2422ms or 48 ticks behind
+2025-02-22 22:00:40,761 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2435ms or 48 ticks behind
+2025-02-22 22:00:59,797 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2371ms or 47 ticks behind
+2025-02-22 22:01:18,928 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2401ms or 48 ticks behind
+2025-02-22 22:01:38,069 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2443ms or 48 ticks behind
+2025-02-22 22:01:57,167 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2440ms or 48 ticks behind
+2025-02-22 22:02:16,233 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2407ms or 48 ticks behind
+2025-02-22 22:02:35,340 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2414ms or 48 ticks behind
+2025-02-22 22:02:54,384 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2407ms or 48 ticks behind
+2025-02-22 22:03:13,490 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2413ms or 48 ticks behind
+2025-02-22 22:03:26,266 [32mINFO [m [m[User Authenticator #4][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
+2025-02-22 22:03:32,636 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2410ms or 48 ticks behind
+2025-02-22 22:03:33,154 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2b397f50
+2025-02-22 22:03:33,195 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: SoySander joined the game
+2025-02-22 22:03:33,207 [32mINFO [m [m[Server thread][m [mJade.playerJoin(149)[m: Syncing config to SoySander (2fdec197-58fd-3a92-a8c9-336e26aeae55)
+2025-02-22 22:03:33,209 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(323)[m: SoySander[/[0:0:0:0:0:0:0:1]:42594] logged in with entity id 10921 at (-783.9614704764323, 66.5, -1314.7973266176937)
+2025-02-22 22:03:33,501 [32mINFO [m [m[Server thread][m [md.m.v.Voicechat.publish(36)[m: [voicechat] Received secret request of SoySander (18)
+2025-02-22 22:03:33,502 [33mWARN [m [m[Server thread][m [md.m.v.Voicechat.publish(34)[m: [voicechat] Player already requested secret - ignoring
